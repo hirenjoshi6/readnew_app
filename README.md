@@ -4,9 +4,6 @@
 {\*\expandedcolortbl;;}
 \paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-<p align="center"><img src="Simulator Screenshot - iPhone 16 - 2024-11-26 at 23.40.53.png" width="1000"></p>
-<p align="center"><img src="Simulator Screenshot - iPhone 16 - 2024-11-26 at 23.40.49.png" width="1000"></p>
 \f0\fs24 \cf0 # News Reader App\
 \
 ## Description\
@@ -38,3 +35,8 @@ Unit tests are included for the `NetworkManager` and `NewsViewModel` to ensure f
 - Implement search functionality for articles.\
 - Add user authentication for personalized bookmarks.\
 - Enhance UI with animations and better design elements.}
+
+  ## Screen shots
+  
+<p align="center"><img src="Simulator Screenshot - iPhone 16 - 2024-11-26 at 23.40.53.png" width="1000"></p>
+<p align="center"><img src="Simulator Screenshot - iPhone 16 - 2024-11-26 at 23.40.49.png" width="1000"></p>
