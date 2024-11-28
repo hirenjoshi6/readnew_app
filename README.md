@@ -23,6 +23,12 @@ This is a simple news reader application developed for iOS that fetches news art
 - Read full articles by tapping on them.\
 - Bookmark articles for later reading.\
 \
+## News Read API Details
+1. https://newsapi.org/ I have used this news API portal to read public news.
+2. This is the newsread API key: 395613b97e4145f58664b501a7fb4cd7
+3. As this is the demo and public portal, there is a limitation that this API key is valid for 2 days only.
+4. Sometimes if you see that API key is not valid or expired, then you have to generate it again with a tempemail address from the above portal.
+
 ## Setup Instructions\
 1. Clone the repository.\
 2. Open the project in Xcode.\

@@ -11,8 +11,8 @@ import Foundation
 class APIService {
     
     static let shared = APIService()
-    private let apiKey = "6722d4110b8340c593559c990393a0a9"
-    private let baseURL = "https://newsapi.org/v2/everything?q=tesla&from=2024-10-26&sortBy=publishedAt"
+    private let apiKey = "395613b97e4145f58664b501a7fb4cd7"
+    private let baseURL = "https://newsapi.org/v2/everything?q=tesla&from=2024-10-28&sortBy=publishedAt"
     
     func fetchArticles(completion: @escaping ([NewsArticle]?) -> Void) {
         let urlString = "\(baseURL)&apiKey=\(apiKey)"
